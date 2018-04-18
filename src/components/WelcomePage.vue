@@ -14,6 +14,7 @@
       <button class="alternate" type="submit">Register</button>
     </form>
     <p class="error">{{registerError}}</p>
+    <a href="https://github.com/jswalker808/creative5">Link to GitHub</a>
   </div>
 </template>
 

@@ -14,6 +14,7 @@
       <p class="tweet">{{item.tweet}}</p>
     </div>
     </div>
+    <a href="https://github.com/jswalker808/creative5" id="gitLink">Link to GitHub</a>
   </div>
 </template>
 
@@ -96,6 +97,14 @@
      margin-bottom: 5px;
      resize: none;
      box-sizing: border-box;
+ }
+ #gitLink {
+ height: 30px;
+ position: fixed;
+ bottom: 0;
+ margin: auto;
+ width: 100%;
+ text-decoration: none;
  }
  span button {
   min-width: 20px;
